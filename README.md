@@ -1,4 +1,4 @@
-# Green Minds 🌱
+# EmotionalEdge 🌱
 **An AI-Powered Mental Wellness Journal & Toolkit**
 
 
